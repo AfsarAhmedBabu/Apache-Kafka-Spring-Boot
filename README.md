@@ -16,6 +16,7 @@ Commands to start Zookeeper and Kafka :
 .\bin\windows\kafka-server-start.bat .\config\server.properties
 
 
+
 Basic Terminology in Apache Kafka:
 
 
